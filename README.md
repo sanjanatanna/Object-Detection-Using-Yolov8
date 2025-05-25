@@ -2,6 +2,8 @@
 
 This project implements object detection on retail shelves using the YOLOv8 model. It aims to detect and classify products on shelves to help with inventory management, shelf organization, and retail analytics.
 
+### Live Demo: https://huggingface.co/spaces/sanjanatanna/ObjectDetectionTool
+
 ## Features
 
 - Custom-trained YOLOv8 model for retail shelf objects
