@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.pt
+*.ipynb_checkpoints/
+yolo_output/
+real_time/*.mp4
